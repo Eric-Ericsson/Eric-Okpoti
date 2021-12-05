@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Eric-Okpoti
+- 👋 Hi, I’m @Eric-Ericsson
 - 👀 I’m interested in ...Software Engineering
-- 🌱 I’m currently learning ...Assembly language and Java
+- 🌱 I’m currently learning ...Assembly language,Java, JavaScript, React.js and Next.js
 - 💞️ I’m looking to collaborate on ...Anything
-- 📫 How to reach me ...eokpoti19@gmail.com
+- 📫 How to reach me ...ericericsson39@gmail.com
 - 😎 Fun fact ...Am half way finish
 
 <!---
